@@ -20,16 +20,13 @@
 
 ==================================================
 
-monte o esqueleto pra mim com os seguintes requisitos:
-
-1. precisa ser responsivo.
-2. use cores escuras e gradientes
-3. precisa ser localizada para ingles e portugues brasileiro.
-4. barra de navegacao deve conter: pagina inicial, minha experiencia profissiona, projetos pessoais e de game jam, arte 3d, outras colaboracoes.
-5. a pagina inicial deve conter uma seção de "sobre", meus contatos
-
-==================================================
-
 vamos fazer alguns ajustes:
 1. 
 
+==================================================
+
+## Adicionar o link do portfolio ao meu curriculo e outras redes.
+## Adicionar favIcon.
+## Localizar para o ingles.
+## Adicionar links.
+## Corrigir os textos.
