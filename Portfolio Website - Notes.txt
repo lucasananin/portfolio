@@ -1,0 +1,35 @@
+// Portfolio Website - Notes
+
+## Pedir para o claude montar.
+
+## Responsivo.
+
+## barra de navegacao com as seções.
+
+## Sobre.
+## Botoes para minhas redes sociais e email.
+- linkedin, x, insta, youtube, github, discord.
+
+## Video ou gif com meus jogos.
+## Seções.
++ home.
++ My experience.
++ Personal projects and jams.
++ 3D art.
++ Other colaborations.
+
+==================================================
+
+monte o esqueleto pra mim com os seguintes requisitos:
+
+1. precisa ser responsivo.
+2. use cores escuras e gradientes
+3. precisa ser localizada para ingles e portugues brasileiro.
+4. barra de navegacao deve conter: pagina inicial, minha experiencia profissiona, projetos pessoais e de game jam, arte 3d, outras colaboracoes.
+5. a pagina inicial deve conter uma seção de "sobre", meus contatos
+
+==================================================
+
+vamos fazer alguns ajustes:
+1. 
+
