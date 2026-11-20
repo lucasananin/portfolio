@@ -30,4 +30,3 @@ vamos fazer alguns ajustes:
 ## Localizar para o ingles.
 ## Adicionar links.
 ## Corrigir os textos.
-## links dos gifs.
