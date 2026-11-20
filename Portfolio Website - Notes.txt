@@ -26,7 +26,7 @@ vamos fazer alguns ajustes:
 ==================================================
 
 ## Adicionar o link do portfolio ao meu curriculo e outras redes.
+## disponibilizar no github pages.
 ## Adicionar favIcon.
 ## Localizar para o ingles.
-## Adicionar links.
-## Corrigir os textos.
+## preencher a area de projetos.
