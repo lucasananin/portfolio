@@ -30,3 +30,5 @@ vamos fazer alguns ajustes:
 ## Adicionar favIcon.
 ## Localizar para o ingles.
 ## preencher a area de projetos.
++ descricao.
++ tags.
