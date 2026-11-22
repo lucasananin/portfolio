@@ -1,34 +1,9 @@
 // Portfolio Website - Notes
 
-## Pedir para o claude montar.
-
-## Responsivo.
-
-## barra de navegacao com as seções.
-
-## Sobre.
-## Botoes para minhas redes sociais e email.
-- linkedin, x, insta, youtube, github, discord.
-
-## Video ou gif com meus jogos.
-## Seções.
-+ home.
-+ My experience.
-+ Personal projects and jams.
-+ 3D art.
-+ Other colaborations.
-
-==================================================
-
-vamos fazer alguns ajustes:
-1. 
-
 ==================================================
 
 ## Adicionar o link do portfolio ao meu curriculo e outras redes.
 ## disponibilizar no github pages.
 ## Adicionar favIcon.
 ## Localizar para o ingles.
-## preencher a area de projetos.
-+ descricao.
-+ tags.
+- pedir para o claude localizar.
